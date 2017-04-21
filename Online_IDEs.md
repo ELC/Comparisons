@@ -6,7 +6,7 @@ If you want to read just the conclusion you can go [here](#conclusion)
 Do not forget to read the contributing file before create issues and pull requests
 
 ## Scenario
-Online IDEs are usually used for scripting and small proyects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
+Online IDEs are usually used for scripting and small projects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
 
 This is based on the tendency to scripting languages such as:
 - JavaScript
@@ -14,7 +14,7 @@ This is based on the tendency to scripting languages such as:
 - PHP
 - Ruby
 
-These are 4 scripting languages from the Top 6 most active repositories on Github* so this may imply in some way that focusing on little proyects and small teams is closer to the general scenario
+These are 4 scripting languages from the Top 6 most active repositories on Github* so this may imply in some way that focusing on little projects and small teams is closer to the general scenario
 
 \* Information extracted from GitHut. [Source](http://githut.info/)
 
@@ -25,9 +25,9 @@ The following scenarios have time-tested solutions:
 - Systems Administrators: use software installed by default in every server such as vim or nano
 - Large companies ecosystems: use software specified by the company politics
 - University enviroment: use software provided by the university
-- Large proyects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
+- Large projects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
 
-## Evaluation aspects:
+## Evaluated features:
 - Colaborative editting: Several people editing the same file online
 - Share Link: Generation of a link to a specific file
 - Storage: All the files are stored in the cloud
@@ -209,29 +209,29 @@ The following is a list of all the features evaluated and the IDEs which satisfy
 |:---------------------:	|:---------------------------------:	|:-----------------------------:	|:------------------------------------:	|:-------------------------:	|:---------------------------------------------------------------:	|:------------------------:	|
 |       Share Link      	|                 ✔                 	|               ✔               	|                   ✔                  	|             ✔             	|                                ✔                                	|             ✔            	|
 |   Multiple Languages  	|                 ✔                 	|               ✔               	|                   ✔                  	|             ✔             	|                                ✔                                	|             ✔            	|
-|    No Registrarion    	|                 X                 	|               ✔               	|                   ✔                  	|             ✔             	|                                ✔                                	|             ✔            	|
-|        Storage        	|                 X                 	|               ✔               	|                   X                  	|             ✔             	|                                ✔                                	|             ✔            	|
-|         Theme         	|                 ✔                 	|               X               	|                   X                  	|             ✔             	|                                ✔                                	|             ✔            	|
-| Colaborative editting 	|                 ✔                 	|               X               	|                   ✔                  	|             ✔             	|                                X                                	|             X            	|
-|          Chat         	|                 X                 	|               X               	|                   ✔                  	|             ✔             	|                                X                                	|             X            	|
-|       Keybinding      	|                 X                 	|               X               	|                   X                  	|             ✔             	|                                X                                	|             ✔            	|
-|      Project-Like     	|                 X                 	|               X               	|                   X                  	|             X             	|                                ✔                                	|             ✔            	|
-|        Console        	|                 X                 	|               X               	|                   X                  	|             X             	|                                ✔                                	|             ✔            	|
-|   No Reload  	|                 X                 	|               X               	|                   X                  	|             X             	|                                ✔                                	|             ✔            	|
-|       Debbuging       	|                 X                 	|               X               	|                   X                  	|             X             	|                                X                                	|             ✔            	|
-|   Source Control  	|                 X                 	|               X               	|                   X                  	|             X             	|                                X                                	|             X            	|
+|    No Registrarion    	|                 :x:                 	|               ✔               	|                   ✔                  	|             ✔             	|                                ✔                                	|             ✔            	|
+|        Storage        	|                 :x:                 	|               ✔               	|                   :x:                  	|             ✔             	|                                ✔                                	|             ✔            	|
+|         Theme         	|                 ✔                 	|               :x:               	|                   :x:                  	|             ✔             	|                                ✔                                	|             ✔            	|
+| Colaborative editting 	|                 ✔                 	|               :x:               	|                   ✔                  	|             ✔             	|                                :x:                                	|             :x:            	|
+|          Chat         	|                 :x:                 	|               :x:               	|                   ✔                  	|             ✔             	|                                :x:                                	|             :x:            	|
+|       Keybinding      	|                 :x:                 	|               :x:               	|                   :x:                  	|             ✔             	|                                :x:                                	|             ✔            	|
+|      Project-Like     	|                 :x:                 	|               :x:               	|                   :x:                  	|             :x:             	|                                ✔                                	|             ✔            	|
+|        Console        	|                 :x:                 	|               :x:               	|                   :x:                  	|             :x:             	|                                ✔                                	|             ✔            	|
+|   No Reload  	|                 :x:                 	|               :x:               	|                   :x:                  	|             :x:             	|                                ✔                                	|             ✔            	|
+|       Debbuging       	|                 :x:                 	|               :x:               	|                   :x:                  	|             :x:             	|                                :x:                                	|             ✔            	|
+|   Source Control  	|                 :x:                 	|               :x:               	|                   :x:                  	|             :x:             	|                                :x:                                	|             :x:            	|
 ## Reduced Sumary Table
 This table removes redundant features and non feature rich options
 
 |          Name         	| [Kobra](https://kobra.io) 	| [CodingGround](https://www.tutorialspoint.com/codingground.htm) 	| [Repl](https://repl.it/) 	|
 |:---------------------:	|:-------------------------:	|:---------------------------------------------------------------:	|:------------------------:	|
-|      Project-Like     	|             X             	|                                ✔                                	|             ✔            	|
-|        Console        	|             X             	|                                ✔                                	|             ✔            	|
-|   No Reload  	|             X             	|                                ✔                                	|             ✔            	|
-|       Debbuging       	|             X             	|                                X                                	|             ✔            	|
-|       Keybinding      	|             ✔             	|                                X                                	|             ✔            	|
-|          Chat         	|             ✔             	|                                X                                	|             X            	|
-| Colaborative editting 	|             ✔             	|                                X                                	|             X            	|
+|      Project-Like     	|             :x:             	|                                ✔                                	|             ✔            	|
+|        Console        	|             :x:             	|                                ✔                                	|             ✔            	|
+|   No Reload  	|             :x:             	|                                ✔                                	|             ✔            	|
+|       Debbuging       	|             :x:             	|                                :x:                                	|             ✔            	|
+|       Keybinding      	|             ✔             	|                                :x:                                	|             ✔            	|
+|          Chat         	|             ✔             	|                                :x:                                	|             :x:            	|
+| Colaborative editting 	|             ✔             	|                                :x:                                	|             :x:            	|
 
 ## Conclusion
 Despite depending on the team requirements, it seems to me that the best choice is a combination of [Kobra](https://kobra.io) and [Repl](https://repl.it/) because these two combined provided both, the colaborative features and the Console and Record, having dark themes, storage, keybindings and no registration required.
