@@ -68,7 +68,7 @@ Click an IDEs to see its review
 1. [CodingGround](#6-codingground)
 1. [Codechef](#disqualified)
 
-## Evaluation [:top:](#index)
+## Evaluation
 
 ## 1. [Collabedit](http://collabedit.com/)
 ### It has:
