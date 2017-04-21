@@ -219,19 +219,19 @@ The following is a list of all the features evaluated and the IDEs which satisfy
 |        Console        	|                 :heavy_multiplication_x:                 	|               :heavy_multiplication_x:               	|                   :heavy_multiplication_x:                  	|             :heavy_multiplication_x:             	|                                ✔                                	|             ✔            	|
 |   No Reload  	|                 :heavy_multiplication_x:                 	|               :heavy_multiplication_x:               	|                   :heavy_multiplication_x:                  	|             :heavy_multiplication_x:             	|                                ✔                                	|             ✔            	|
 |       Debbuging       	|                 :heavy_multiplication_x:                 	|               :heavy_multiplication_x:               	|                   :heavy_multiplication_x:                  	|             :heavy_multiplication_x:             	|                                :heavy_multiplication_x:                                	|             ✔            	|
-|   Source Control  	|                 :heavy_multiplication_x:                 	|               :heavy_multiplication_x:               	|                   :heavy_multiplication_x:                  	|             :heavy_multiplication_x:             	|                                :heavy_multiplication_x:                                	|             :X:            	|
+|   Source Control  	|                 :heavy_multiplication_x:                 	|               :heavy_multiplication_x:               	|                   :heavy_multiplication_x:                  	|             :heavy_multiplication_x:             	|                                :heavy_multiplication_x:                                	|             :x:            	|
 ## Reduced Sumary Table
 This table removes redundant features and non feature rich options
 
 |          Name         	| [Kobra](https://kobra.io) 	| [CodingGround](https://www.tutorialspoint.com/codingground.htm) 	| [Repl](https://repl.it/) 	|
 |:---------------------:	|:-------------------------:	|:---------------------------------------------------------------:	|:------------------------:	|
-|      Project-Like     	|             X             	|                                ✔                                	|             ✔            	|
-|        Console        	|             X             	|                                ✔                                	|             ✔            	|
-|   No Reload  	|             X             	|                                ✔                                	|             ✔            	|
-|       Debbuging       	|             X             	|                                X                                	|             ✔            	|
-|       Keybinding      	|             ✔             	|                                X                                	|             ✔            	|
-|          Chat         	|             ✔             	|                                X                                	|             X            	|
-| Colaborative editting 	|             ✔             	|                                X                                	|             X            	|
+|      Project-Like     	|             :x:             	|                                ✔                                	|             ✔            	|
+|        Console        	|             :x:             	|                                ✔                                	|             ✔            	|
+|   No Reload  	|             :x:             	|                                ✔                                	|             ✔            	|
+|       Debbuging       	|             :x:             	|                                :x:                                	|             ✔            	|
+|       Keybinding      	|             ✔             	|                                :x:                                	|             ✔            	|
+|          Chat         	|             ✔             	|                                :x:                                	|             :x:            	|
+| Colaborative editting 	|             ✔             	|                                :x:                                	|             :x:            	|
 
 ## Conclusion
 Despite depending on the team requirements, it seems to me that the best choice is a combination of [Kobra](https://kobra.io) and [Repl](https://repl.it/) because these two combined provided both, the colaborative features and the Console and Record, having dark themes, storage, keybindings and no registration required.
