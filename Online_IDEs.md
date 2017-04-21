@@ -6,7 +6,7 @@ If you want to read just the conclusion you can go [here](#conclusion)
 Do not forget to read the contributing file before create issues and pull requests
 
 ## Scenario
-Online IDEs are usually used for scripting and small proyects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
+Online IDEs are usually used for scripting and small projects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
 
 This is based on the tendency to scripting languages such as:
 - JavaScript
@@ -14,7 +14,7 @@ This is based on the tendency to scripting languages such as:
 - PHP
 - Ruby
 
-These are 4 scripting languages from the Top 6 most active repositories on Github* so this may imply in some way that focusing on little proyects and small teams is closer to the general scenario
+These are 4 scripting languages from the Top 6 most active repositories on Github* so this may imply in some way that focusing on little projects and small teams is closer to the general scenario
 
 \* Information extracted from GitHut. [Source](http://githut.info/)
 
@@ -25,7 +25,7 @@ The following scenarios have time-tested solutions:
 - Systems Administrators: use software installed by default in every server such as vim or nano
 - Large companies ecosystems: use software specified by the company politics
 - University enviroment: use software provided by the university
-- Large proyects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
+- Large projects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
 
 ## Evaluated features:
 - Colaborative editting: Several people editing the same file online
