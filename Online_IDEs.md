@@ -27,7 +27,7 @@ The following scenarios have time-tested solutions:
 - University enviroment: use software provided by the university
 - Large proyects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
 
-## Evaluation aspects:
+## Evaluated features:
 - Colaborative editting: Several people editing the same file online
 - Share Link: Generation of a link to a specific file
 - Storage: All the files are stored in the cloud
