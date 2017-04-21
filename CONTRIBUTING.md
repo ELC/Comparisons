@@ -3,19 +3,28 @@ First of all, thank you very much for contributing.
 
 Since this project contain mainly static non code files, there is no conventions to follow regarding to the syntax
 
+## Index
+1. [Suggest a Topic](#suggest-a-topic)
+1. [Suggest a Modification](#suggest-a-modification)
+1. [Modify a Comparison](#modify-a-comparison)
+1. [Structure of the comparisons](#structure-of-the-comparisons)
+1. [Add a comparison](#add-a-comparison)
+1. [Rules for Pull Requests](#rules-for-pull-requests)
+
 ## Suggest a Topic
 If you want to suggest a topic, just create an issue with that request, even if you are uncertain in how to implement it, after the issue is created another person would do the comparison. Only software-related topics will be consider.
 
 ## Suggest a Modification
 If you consider a comparison is incomplete or miss a key feature or an important candidate was forgotten, you can create a pull request with the suggested changes or create an issue named "Modify" + filename + reason
 
-## Modify a comparison
+## Modify a Comparison
 If you are willing to add any piece of information you consider necessary, do not hesitate in creating a pull request. Be careful with the style, there is no standard style guide apart from consistency within the files
 
 ## Structure of the comparisons
 The standard structure is the following:
 
 - Description
+- Index with hyperlinks
 - Scenario chosen for the analysis
 - Set of features to be considered
 - Prior requirements to be evalutated (Optional) (*)

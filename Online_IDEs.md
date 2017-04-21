@@ -1,9 +1,17 @@
 # Description
 This is a comparison for a variety of online IDEs. Using a typical scenario, pros and cons will be evaluated.
 
-If you want to read just the conclusion you can go [here](#conclusion)
-
 Do not forget to read the contributing file before create issues and pull requests
+
+## Index
+1. [Scenario](#scenario)
+1. [Evaluated Features](#evaluated-features)
+1. [IDEs Index](#ides-index)
+1. [Evaluation](#evaluation)
+1. [Disqualified](#disqualified)
+1. [Summary by feature](#summary-by-feature)
+1. [Sumary Table](#sumary-table)
+1. [Conclusion](#conclusion)
 
 ## Scenario
 Online IDEs are usually used for scripting and small projects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
@@ -27,7 +35,7 @@ The following scenarios have time-tested solutions:
 - University enviroment: use software provided by the university
 - Large projects: use time-tested desktop IDE such as Visual Studio, Eclipse, ItelliJ, PyCharm
 
-## Evaluated features:
+## Evaluated Features:
 - Colaborative editting: Several people editing the same file online
 - Share Link: Generation of a link to a specific file
 - Storage: All the files are stored in the cloud
@@ -46,19 +54,21 @@ The following scenarios have time-tested solutions:
 Click an IDEs to see its review
 
 1. [Cloud 9](#disqualified) 
-2. [Collabedit](#1-collabedit)
-3. [Kobra](#2-kobra)
-4. [Codeshare](#3-codeshare) 
-5. [Codeanywhere](#disqualified)
-6. [Nitrous](#disqualified)
-7. [Ideone](#4-ideone) 
-8. [Codepad](#disqualified)
-9. [Codetasty](#disqualified)
-10. [Codenvy](#disqualified)
-11. [Koding](#disqualified)
-12. [Repl](#5-repl)
-13. [CodingGround](#6-codingground)
-14. [Codechef](#disqualified)
+1. [Collabedit](#1-collabedit)
+1. [Kobra](#2-kobra)
+1. [Codeshare](#3-codeshare) 
+1. [Codeanywhere](#disqualified)
+1. [Nitrous](#disqualified)
+1. [Ideone](#4-ideone) 
+1. [Codepad](#disqualified)
+1. [Codetasty](#disqualified)
+1. [Codenvy](#disqualified)
+1. [Koding](#disqualified)
+1. [Repl](#5-repl)
+1. [CodingGround](#6-codingground)
+1. [Codechef](#disqualified)
+
+## Evaluation
 
 ## 1. [Collabedit](http://collabedit.com/)
 ### It has:
