@@ -75,33 +75,32 @@ After filter by the prior requirement the final candidates are:
 
 ## Sumary Table
 
-|         Name         	| [LucidChart](https://www.lucidchart.com) 	| [Creately](https://creately.com) 	| [Cacoo](https://cacoo.com) 	| [Gliffy](https://www.gliffy.com) 	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
-|:--------------------:	|:----------------------------------------:	|:--------------------------------:	|:--------------------------:	|:--------------------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
-|         Price        	|                 Free/Paid                	|             Free/Paid            	|          Free/Paid         	|             Free/Paid            	|              Free              	|             Free             	|              Free              	|
-|    No of Diagrams    	|                     3                    	|                 5                	|             15             	|                 5                	|            Unlimited           	|           Unlimited          	|            Unlimited           	|
-|      Share Link      	|                     ✔                    	|                 ✔                	|              ✔             	|                 ✔                	|               :x:              	|               ✔              	|                ✔               	|
-|   User Friendly UI   	|                     ✔                    	|                 ✔                	|             :x:            	|                 ✔                	|                ✔               	|               ✔              	|                ✔               	|
-|         Chen         	|                    :x:                   	|                 ✔                	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
-|      Crow's Foot     	|                    :x:                   	|                :x:               	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
-|        GDrive        	|                     ✔                    	|                :x:               	|              ✔             	|                 ✔                	|               :x:              	|              :x:             	|                ✔               	|
-|        Schema        	|                     ✔                    	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|                ✔               	|
-| Automatic Connection 	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
-|    Convert To Code   	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
-|   Convert to Schema  	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|              :x:             	|               :x:              	|
+|         Name         	| [Creately](https://creately.com) 	| [Cacoo](https://cacoo.com) 	| [LucidChart](https://www.lucidchart.com) 	| [Gliffy](https://www.gliffy.com) 	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
+|:--------------------:	|:--------------------------------:	|:--------------------------:	|:----------------------------------------:	|:--------------------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
+|         Price        	|             Free/Paid            	|          Free/Paid         	|                 Free/Paid                	|             Free/Paid            	|              Free              	|             Free             	|              Free              	|
+|    No of Diagrams    	|                 5                	|             15             	|                     3                    	|                 5                	|            Unlimited           	|           Unlimited          	|            Unlimited           	|
+|      Share Link      	|                 ✔                	|              ✔             	|                     ✔                    	|                 ✔                	|               :x:              	|               ✔              	|                ✔               	|
+|   User Friendly UI   	|                 ✔                	|             :x:            	|                     ✔                    	|                 ✔                	|                ✔               	|               ✔              	|                ✔               	|
+|         Chen         	|                 ✔                	|              ✔             	|                    :x:                   	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
+|      Crow's Foot     	|                :x:               	|              ✔             	|                    :x:                   	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
+|        GDrive        	|                :x:               	|              ✔             	|                     ✔                    	|                 ✔                	|               :x:              	|              :x:             	|                ✔               	|
+|        Schema        	|                :x:               	|             :x:            	|                     ✔                    	|                :x:               	|                ✔               	|               ✔              	|                ✔               	|
+| Automatic Connection 	|                :x:               	|             :x:            	|                    :x:                   	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
+|    Convert To Code   	|                :x:               	|             :x:            	|                    :x:                   	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
+|   Convert to Schema  	|                :x:               	|             :x:            	|                    :x:                   	|                :x:               	|                ✔               	|              :x:             	|               :x:              	|
 
 ## Reduced Sumary Table
 Since the number of diagrams is key, just tools with no restrictions are consider, additionally, redundant features are omited
 
-|         Name         	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
-|:--------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
-|      Share Link      	|               :x:              	|               ✔              	|                ✔               	|
-|         Chen         	|                ✔               	|              :x:             	|                ✔               	|
-|      Crow's Foot     	|                ✔               	|              :x:             	|                ✔               	|
-| Automatic Connection 	|                ✔               	|               ✔              	|               :x:              	|
-|    Convert To Code   	|            ✔ (Beta)            	|             ✔\***            	|               :x:              	|
-|   Convert to Schema  	|            ✔ (Beta)            	|              :x:             	|               :x:              	|
-|        GDrive        	|              :x:*              	|             :x:*             	|               ✔**              	|
-
+|         Name         	| [Pony](https://ponyorm.com/) 	| [ERDPlus](https://erdplus.com) 	| [Draw.io](https://www.draw.io) 	|
+|:--------------------:	|:----------------------------:	|:------------------------------:	|:------------------------------:	|
+|      Share Link      	|               ✔              	|               :x:              	|                ✔               	|
+|         Chen         	|              :x:             	|                ✔               	|                ✔               	|
+|      Crow's Foot     	|              :x:             	|                ✔               	|                ✔               	|
+| Automatic Connection 	|               ✔              	|                ✔               	|               :x:              	|
+|    Convert To Code   	|             ✔\***            	|            ✔ (Beta)            	|               :x:              	|
+|   Convert to Schema  	|              :x:             	|            ✔ (Beta)            	|               :x:              	|
+|        GDrive        	|             :x:*             	|              :x:*              	|               ✔**              	|
 (\*) Files are storage in the cloud
 
 (\**) Files have to be storaged in a third party services, the options are: GDrive, GitHub, Dropbox, OneDrive or Locally
