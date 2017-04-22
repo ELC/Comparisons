@@ -15,17 +15,20 @@ Do not forget to read the contributing file before create issues and pull reques
 ## Scenario
 Entity relationship diagram tools are used mainly in educational context or in some specific situation in professional life. Since education is one of the main areas of usage, the scenario will be a University.
 
+In this scenario, 
+
 ## Evaluated Features:
 
-- Web Based: Can be executed with nothing more than a web broser
 - Number of Diagrams: Amount of diagrams that a free user can create
-- No trial: Should have no limit of time for free use
+- Share link: Create a link to share the diagram
 - Chen: Uses chen notation to make diagrams
 - Crow's Foot: uses Crow's Foot notations to make diagrams
 - GDrive: Integration with Google Drive for storage
-- Flexibility: Being useful in other areas besides the needed for this subject
-- Interface: Having an user-friendly interface
-- Convert: Being able to convert the diagram into relational schema
+- User Friendly UI: Having an user-friendly interface
+- Schema: Can create and manipulate relational schemas
+- Automatic connection: Relationships and placing of objects are automatic
+- Convert to code: Being able to convert the diagram into code
+- Convert to schema: Being able to convert the diagram into a relational schema
 
 ### Restrictions
 
@@ -71,33 +74,32 @@ After filter by the prior requirement the final candidates are:
 1. [Pony](https://ponyorm.com/)
 
 ## Sumary Table
-
-|             Name             	| [LucidChart](https://www.lucidchart.com) 	| [Creately](https://creately.com) 	| [Cacoo](https://cacoo.com) 	| [Gliffy](https://www.gliffy.com) 	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
-|:----------------------------:	|:----------------------------------------:	|:--------------------------------:	|:--------------------------:	|:--------------------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
-|             Price            	|                 Free/Paid                	|             Free/Paid            	|          Free/Paid         	|             Free/Paid            	|              Free              	|             Free             	|              Free              	|
-|        No of Diagrams        	|                     3                    	|                 5                	|             15             	|                 5                	|            Unlimited           	|           Unlimited          	|            Unlimited           	|
-|          Share Link          	|                     ✔                    	|                 ✔                	|              ✔             	|                 ✔                	|               :x:              	|               ✔              	|                ✔               	|
-|       User Friendly UI       	|                     ✔                    	|                 ✔                	|             :x:            	|                 ✔                	|                ✔               	|               ✔              	|                ✔               	|
-|            GDrive            	|                     ✔                    	|                :x:               	|              ✔             	|                 ✔                	|               :x:              	|              :x:             	|                ✔               	|
-|             Chen             	|                    :x:                   	|                 ✔                	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
-|          Crow's Foot         	|                    :x:                   	|                :x:               	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
-|       Relational Schema      	|                     ✔                    	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|                ✔               	|
-|     Automatic Connection     	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
-| Convert to Relational Schema 	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|              :x:             	|               :x:              	|
-|        Convert To Code       	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
+|         Name         	| [LucidChart](https://www.lucidchart.com) 	| [Creately](https://creately.com) 	| [Cacoo](https://cacoo.com) 	| [Gliffy](https://www.gliffy.com) 	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
+|:--------------------:	|:----------------------------------------:	|:--------------------------------:	|:--------------------------:	|:--------------------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
+|         Price        	|                 Free/Paid                	|             Free/Paid            	|          Free/Paid         	|             Free/Paid            	|              Free              	|             Free             	|              Free              	|
+|    No of Diagrams    	|                     3                    	|                 5                	|             15             	|                 5                	|            Unlimited           	|           Unlimited          	|            Unlimited           	|
+|      Share Link      	|                     ✔                    	|                 ✔                	|              ✔             	|                 ✔                	|               :x:              	|               ✔              	|                ✔               	|
+|   User Friendly UI   	|                     ✔                    	|                 ✔                	|             :x:            	|                 ✔                	|                ✔               	|               ✔              	|                ✔               	|
+|        GDrive        	|                     ✔                    	|                :x:               	|              ✔             	|                 ✔                	|               :x:              	|              :x:             	|                ✔               	|
+|         Chen         	|                    :x:                   	|                 ✔                	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
+|      Crow's Foot     	|                    :x:                   	|                :x:               	|              ✔             	|                 ✔                	|                ✔               	|              :x:             	|                ✔               	|
+|        Schema        	|                     ✔                    	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|                ✔               	|
+| Automatic Connection 	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
+|   Convert to Schema  	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|              :x:             	|               :x:              	|
+|    Convert To Code   	|                    :x:                   	|                :x:               	|             :x:            	|                :x:               	|                ✔               	|               ✔              	|               :x:              	|
 
 ## Reduced Sumary Table
 Since the number of diagrams is key, just tools with no restrictions are consider, additionally, redundant features are omited
 
-|             Name             	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
-|:----------------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
-|          Share Link          	|               :x:              	|               ✔              	|                ✔               	|
-|            GDrive            	|              :x:*              	|             :x:*             	|               ✔**              	|
-|             Chen             	|                ✔               	|              :x:             	|                ✔               	|
-|          Crow's Foot         	|                ✔               	|              :x:             	|                ✔               	|
-|     Automatic Connection     	|                ✔               	|               ✔              	|               :x:              	|
-| Convert to Relational Schema 	|            ✔ (Beta)            	|              :x:             	|               :x:              	|
-|        Convert To Code       	|            ✔ (Beta)            	|             ✔\***            	|               :x:              	|
+|         Name         	| [ERDPlus](https://erdplus.com) 	| [Pony](https://ponyorm.com/) 	| [Draw.io](https://www.draw.io) 	|
+|:--------------------:	|:------------------------------:	|:----------------------------:	|:------------------------------:	|
+|      Share Link      	|               :x:              	|               ✔              	|                ✔               	|
+|        GDrive        	|              :x:*              	|             :x:*             	|               ✔**              	|
+|         Chen         	|                ✔               	|              :x:             	|                ✔               	|
+|      Crow's Foot     	|                ✔               	|              :x:             	|                ✔               	|
+| Automatic Connection 	|                ✔               	|               ✔              	|               :x:              	|
+|   Convert to Schema  	|            ✔ (Beta)            	|              :x:             	|               :x:              	|
+|    Convert To Code   	|            ✔ (Beta)            	|             ✔\***            	|               :x:              	|
 
 (\*) Files are storage in the cloud
 
