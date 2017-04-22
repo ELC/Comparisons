@@ -1,5 +1,5 @@
 # Description
-This is a comparison for a variety of online IDEs. Using a typical scenario, pros and cons will be evaluated.
+Online IDEs do not require instalation, nor configuration, they are avaiable just with an internet connection and that is why people should know which are the benefits they have to offer us
 
 Do not forget to read the contributing file before create issues and pull requests
 
@@ -7,11 +7,11 @@ Do not forget to read the contributing file before create issues and pull reques
 1. [Scenario](#scenario)
 1. [Evaluated Features](#evaluated-features)
 1. [IDEs Index](#ides-index)
-1. [Evaluation](#evaluation)
 1. [Disqualified](#disqualified)
-1. [Summary by feature](#summary-by-feature)
+1. [Evaluation](#evaluation)
 1. [Sumary Table](#sumary-table)
 1. [Conclusion](#conclusion)
+
 
 ## Scenario
 Online IDEs are usually used for scripting and small projects. Since other technologies are often used in specific scenarios we will focus on a single developer or a small teams of developers.
@@ -25,9 +25,6 @@ This is based on the tendency to scripting languages such as:
 These are 4 scripting languages from the Top 6 most active repositories on Github* so this may imply in some way that focusing on little projects and small teams is closer to the general scenario
 
 \* Information extracted from GitHut. [Source](http://githut.info/)
-
-
-    Only completely free of charge IDE will be consider, not necessarily being them open-source or free software
 
 The following scenarios have time-tested solutions:
 - Systems Administrators: use software installed by default in every server such as vim or nano
@@ -50,121 +47,27 @@ The following scenarios have time-tested solutions:
 - Chat: Builtin chat
 - Source Control: Provide a transparent integration with any source control platform
 
+### Restriction
+
+    Only completely free of charge IDE will be consider, not necessarily being them open-source or free software
+
 ## IDEs Index:
-Click an IDEs to see its review
+Click to open the official webpage
 
-1. [Cloud 9](#disqualified) 
-1. [Collabedit](#1-collabedit)
-1. [Kobra](#2-kobra)
-1. [Codeshare](#3-codeshare) 
-1. [Codeanywhere](#disqualified)
-1. [Nitrous](#disqualified)
-1. [Ideone](#4-ideone) 
-1. [Codepad](#disqualified)
-1. [Codetasty](#disqualified)
-1. [Codenvy](#disqualified)
-1. [Koding](#disqualified)
-1. [Repl](#5-repl)
-1. [CodingGround](#6-codingground)
-1. [Codechef](#disqualified)
-
-## Evaluation
-
-## 1. [Collabedit](http://collabedit.com/)
-### It has:
-- Colaborative editting
-- No Registrarion
-- Chat
-
-### It lacks:
-- Storage
-- Theme 
-- Project-Like
-- Console
-- No Reload
-- Keybinding
-
-
-## 2. [Kobra](https://kobra.io)
-### It has:
-- Colaborative editting
-- Storage
-- Theme 
-- No Registrarion
-- Keybinding
-- Chat
-
-### It lacks:
-- Console
-- No Reload
-- Project-Like
-
-## 3. [Codeshare](https://codeshare.io)
-### It has:
-- Colaborative editting 
-- Theme 
-
-### It lacks:
-- Storage 
-- Project-Like
-- No Registrarion 
-- Console
-- No Reload 
-- Keybinding 
-- Chat 
-
-## 4. [Ideone](https://ideone.com/)
-### It has:
-- No Registrarion
-- Storage
-
-### It lacks:
-- Colaborative editting
-- Theme 
-- Console
-- No Reload
-- Keybinding
-- Chat
-
-#### Special Note:
-- It's integrated with SPOJ
-
-## 5. [Repl](https://repl.it/)
-### It has:
-- Storage 
-- Project-Like
-- Theme 
-- No Registrarion 
-- Console
-- No Reload 
-- Keybinding 
-
-### It lacks:
-- Colaborative editting 
-- Chat 
-
-## 6. [CodingGround](https://www.tutorialspoint.com/codingground.htm)
-### It has:
-- Storage 
-- Project-Like
-- Theme 
-- No Registrarion 
-- Console
-- No Reload 
-
-### It lacks:
-- Colaborative editting 
-- Keybinding 
-- Chat 
-
-## All of the previous:
-### Have:
-- Share Link
-- Multiple Languages
-
-### Lack:
-- Debbuging (Repl has a beta debugger)
-- Source Control
+1. [Cloud 9](https://c9.io) 
+1. [Codeanywhere](https://codeanywhere.com)
+1. [Codechef](https://www.codechef.com)
+1. [Codenvy](https://codenvy.io)
+1. [Codepad](https://codepad.co)
+1. [Codeshare](https://codeshare.io) 
+1. [Codetasty](https://codetasty.com)
+1. [CodingGround](https://www.tutorialspoint.com/codingground.htm)
+1. [Collabedit](http://collabedit.com/)
+1. [Ideone](https://ideone.com/)
+1. [Kobra](https://kobra.io)
+1. [Koding](https://koding.com)
+1. [Nitrous](https://www.nitrous.io)
+1. [Repl](https://repl.it/)
 
 ## Disqualified
 The following IDEs weren't included in the list for several reasons:
@@ -175,43 +78,23 @@ The following IDEs weren't included in the list for several reasons:
 ### Too complex for our Scenario:
 The following are IDEs too complex for the given scenario, all of them use workstations, although some might be useful for a more complex scenario.
 * [Codeanywhere](https://codeanywhere.com): You can't run and compile individual files
-* [Nitrous](https://www.nitrous.io): It has total amount of hours limitations
-* [Codetasty](https://codetasty.com): You can't run and compile individual files
 * [Codenvy](https://codenvy.io): You can't run and compile individual files
+* [Codetasty](https://codetasty.com): You can't run and compile individual files
 * [Koding](https://koding.com): Uses stacks arquitechture
+* [Nitrous](https://www.nitrous.io): It has total amount of hours limitations
 
 ### Too basic to our Scenario
-* [Codepad](https://codepad.co): Just store code as text with syntax
 * [Codechef](https://www.codechef.com): Has no editor
+* [Codepad](https://codepad.co): Just store code as text with syntax
 
-## Summary by feature
-The following is a list of all the features evaluated and the IDEs which satisfy them.
-
-- **No Reload**, **Console** and **Project-Like**:
-    - [CodingGround](https://www.tutorialspoint.com/codingground.htm)
-    - [Repl](https://repl.it/)
-- **Colaborative editting** and **Chat**:
-    - [Collabedit](http://collabedit.com/)
-    - [Kobra](https://kobra.io)
-    - [Codeshare](https://codeshare.io)
-- **No registration**:
-    - [Collabedit](http://collabedit.com/)
-    - [Kobra](https://kobra.io)
-    - [Ideone](https://ideone.com/)
-    - [Repl](https://repl.it/)
-    - [CodingGround](https://www.tutorialspoint.com/codingground.htm)
-- **Theme**:
-    - [Kobra](https://kobra.io)
-    - [Repl](https://repl.it/)
-    - [Codeshare](https://codeshare.io)
-- **Storage**:
-    - [Kobra](https://kobra.io)
-    - [Ideone](https://ideone.com/)
-    - [Repl](https://repl.it/)
-    - [CodingGround](https://www.tutorialspoint.com/codingground.htm) 
-- **Keybinding**:
-    - [Kobra](https://kobra.io)
-    - [Repl](https://repl.it/)
+## Evaluation
+After filter by the prior requirement the final candidates are:
+1. [Codeshare](https://codeshare.io) 
+1. [CodingGround](https://www.tutorialspoint.com/codingground.htm)
+1. [Collabedit](http://collabedit.com/)
+1. [Ideone](https://ideone.com/)
+1. [Kobra](https://kobra.io)
+1. [Repl](https://repl.it/)
 
 ## Sumary Table
 

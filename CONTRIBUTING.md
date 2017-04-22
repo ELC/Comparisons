@@ -26,16 +26,13 @@ The standard structure is the following:
 - Description
 - Index with hyperlinks
 - Scenario chosen for the analysis
-- Set of features to be considered
-- Prior requirements to be evalutated (Optional) (*)
-- List of candidates
-- Evaluation (**)
-- Summary by feature
+- Features to be considered
+- Disqualified candidates (Optional) (*)
+- Evaluation
 - Summary Table
+- Conclusion
 
 \* For example in a freeware only comparison, paid software will be list but not evaluated. This is so because the user should know all the options avaiable even if some are not evaluated.
-
-\** If there is a feature just one candidate has, it can be mentioned as a "Special Note" if the feature is important to the analysis, it should be add to the considered features
 
 ### Rules for comparisons
 - Description have to be brief and concrete
